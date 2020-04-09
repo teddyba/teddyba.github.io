@@ -1,9 +1,10 @@
 body{
-	background-image: url('images/hero-image.jpg');
+	background: url('images/hero-image.jpg');
 	background-size:cover;
 }
 
 h1{
+	background: url('images/hero-image.jpg');
 	color:white;
 	font-family:Georgia;
 	font-size:98px;
@@ -34,22 +35,13 @@ h3{
 h4{
 	color:#AD875B;
 	font-family:Helvetica;
-	font-size:24px;
+	font-size:14px;
 	font-weight:bold;
 	letter-spacing:normal;
 	text-align:center;
 }
 
 p{
-	color:#362108;
-	font-family:Helvetica;
-	font-size:16px;
-	font-weight:normal;
-	letter-spacing:normal;
-	text-align:center;
-}
-
-list-style: {
 	color:#362108;
 	font-family:Helvetica;
 	font-size:16px;
