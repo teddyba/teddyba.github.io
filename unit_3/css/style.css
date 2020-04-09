@@ -31,7 +31,7 @@ h3{
 	text-align:center;
 }
 
-h3{
+h4{
 	color:#AD875B;
 	font-family:Helvetica;
 	font-size:24px;
@@ -41,6 +41,15 @@ h3{
 }
 
 p{
+	color:#362108;
+	font-family:Helvetica;
+	font-size:16px;
+	font-weight:normal;
+	letter-spacing:normal;
+	text-align:center;
+}
+
+list-style: {
 	color:#362108;
 	font-family:Helvetica;
 	font-size:16px;
