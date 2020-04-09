@@ -3,7 +3,7 @@ body{
 	background-size:cover;
 }
 
-img{
+image-rendering{
 	align-content: center;
 	width:800px;
 }
