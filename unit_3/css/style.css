@@ -1,7 +1,6 @@
 body{
-	background:url("https://unsplash.com/photos/69ilqMz0p1s");
+	background:url("images/coffee-sample.jpg");
 	background-size:cover;
-	text-align:center;
 }
 
 h1{
@@ -10,6 +9,7 @@ h1{
 	font-size:98px;
 	font-weight:normal;
 	letter-spacing:-.4;
+	text-align:center;
 }
 
 h2{
@@ -19,14 +19,25 @@ h2{
 	font-weight:normal;
 	font-style:italic;
 	letter-spacing:-.4;
+	text-align:center;
+}
+
+h3{
+	color:white;
+	font-family:"Helvetica";
+	font-size:24px;
+	font-weight:normal;
+	letter-spacing:normal;
+	text-align:center;
 }
 
 h3{
 	color:#AD875B;
 	font-family:"Helvetica";
 	font-size:24px;
-	font-weight:normal;
+	font-weight:bold;
 	letter-spacing:normal;
+	text-align:center;
 }
 
 p{
