@@ -1,10 +1,9 @@
 body{
-	background: url('images/hero-image.jpg');
+	background-image: url("images/hero-image.jpg");
 	background-size:cover;
 }
 
 h1{
-	background: url("images/hero-image.jpg");
 	color:#362108;
 	font-family:Georgia;
 	font-size:98px;
