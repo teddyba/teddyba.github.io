@@ -5,7 +5,7 @@ body{
 
 h1{
 	color:white;
-	font-family:"Georgia";
+	font-family:Georgia;
 	font-size:98px;
 	font-weight:normal;
 	letter-spacing:-.4;
@@ -14,7 +14,7 @@ h1{
 
 h2{
 	color:white;
-	font-family:"Georgia";
+	font-family:Georgia;
 	font-size:60px;
 	font-weight:normal;
 	font-style:italic;
@@ -24,7 +24,7 @@ h2{
 
 h3{
 	color:white;
-	font-family:"Helvetica";
+	font-family:Helvetica;
 	font-size:24px;
 	font-weight:normal;
 	letter-spacing:normal;
@@ -33,7 +33,7 @@ h3{
 
 h3{
 	color:#AD875B;
-	font-family:"Helvetica";
+	font-family:Helvetica;
 	font-size:24px;
 	font-weight:bold;
 	letter-spacing:normal;
@@ -42,9 +42,9 @@ h3{
 
 p{
 	color:#362108;
-	font-family:"Helvetica";
+	font-family:Helvetica;
 	font-size:16px;
 	font-weight:normal;
 	letter-spacing:normal;
-	text-align:left;
+	text-align:center;
 }
