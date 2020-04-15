@@ -1,57 +1,29 @@
-body{
-	background-image: url("https://unsplash.com/photos/69ilqMz0p1s");
-	background-size:cover;
-}
-
-image-rendering{
-	align-content: center;
-	width:800px;
-}
+@import url('https://fonts.googleapis.com/css?family=Lora|Muli&display=swap');
 
 h1{
-	color:#362108;
-	font-family:Georgia;
-	font-size:72px;
-	font-weight:bold;
-	text-align:center;
+	font-family: 'Lora', Georgia, serif;
+	font-size: 64px;
+	letter-spacing: -0.04em; 
+	line-height: 1.5em;
 }
 
 h2{
-	color:#362108;
-	font-family:Georgia;
-	font-size:48px;
-	font-weight:normal;
-	font-style:italic;
-	text-align:center;
+	font-family: 'Lora', Georgia, serif;
+	font-size: 32px;
+	letter-spacing: -0.04em; 
+	line-height: 1.5em;
 }
 
 h3{
-	color:#AD875B;
-	font-family:Helvetica;
-	font-size:24px;
-	font-weight:bold;
-	letter-spacing:normal;
-	text-align:center;
-}
-
-h4{
-	color:#AD875B;
-	font-family:Helvetica;
-	font-size:14px;
-	font-weight:bold;
-	letter-spacing:normal;
-	text-align:center;
+	font-family: 'Lora', Georgia, serif;
+	font-size: 24px;
+	letter-spacing: -0.04em; 
+	line-height: 1.5em;
 }
 
 p{
-	color:#362108;
-	font-family:Helvetica;
-	font-size:16px;
-	font-weight:normal;
-	letter-spacing:normal;
-	text-align:center;
-}
-
-hr{
-	width:600px;
+	font-family: 'Muli', Helvetica, sans-serif;
+	font-size: 16px;
+	letter-spacing: -0.04em; 
+	line-height: 1.5em;
 }
