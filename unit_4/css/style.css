@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Muli&display=swap');
+
+h1{
+	font-family: 'Lora', Georgia, serif;
+	font-size: 64px;
+	letter-spacing: -0.04em; 
+	line-height: 1.5em;
+}
+
+h2{
+	font-family: 'Lora', Georgia, serif;
+	font-size: 32px;
+	letter-spacing: -0.04em; 
+	line-height: 1.5em;
+}
+
+h3{
+	font-family: 'Lora', Georgia, serif;
+	font-size: 24px;
+	letter-spacing: -0.04em; 
+	line-height: 1.5em;
+}
+
+p{
+	font-family: 'Muli', Helvetica, sans-serif;
+	font-size: 16px;
+	letter-spacing: -0.04em; 
+	line-height: 1.5em;
+}
